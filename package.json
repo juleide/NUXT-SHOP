@@ -1,0 +1,22 @@
+{
+    "name": "ulaneShop",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "export": "nuxt export",
+        "serve": "nuxt serve"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.11.0",
+        "@nuxtjs/proxy": "^2.0.0",
+        "axios": "^0.19.2",
+        "element-ui": "^2.13.2",
+        "http-proxy-middleware": "^1.0.4",
+        "nuxt": "^2.13.0",
+        "vue-markdown": "^2.2.4"
+    },
+    "devDependencies": {}
+}

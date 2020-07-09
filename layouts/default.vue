@@ -26,7 +26,7 @@
                             </el-popover>
                         </li>
                         <li>
-                            <nuxt-link to="/demo">我的订单</nuxt-link>
+                            <nuxt-link to="/order">我的订单</nuxt-link>
                         </li>
                         <li>
                             <nuxt-link to="/collect" target="_blank">我的收藏</nuxt-link>

@@ -1,4 +1,4 @@
-# shopDemo
+# NUXT-SHOP
 
 ## Build Setup
 
